@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-idblfs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dev-idblfs" height="30" width="40" /></a>
 <a href="https://codesandbox.com/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dev-idblfs" height="30" width="40" /></a>
-<a href="https://instagram.com/di_vy_an_sh_4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="di_vy_an_sh_4u" height="30" width="40" /></a>
+<a href="https://instagram.com/_di_vy_an_sh_4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_di_vy_an_sh_4u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
