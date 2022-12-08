@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-idblfs" alt="dev-idblfs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devidblfs" target="blank"><img src="https://img.shields.io/twitter/follow/devidblfs?logo=twitter&style=for-the-badge" alt="devidblfs" /></a> </p>
+
 
 - 💬 Ask me about **node, react, REST API, Project Architechture, skelton**
 
-- 📫 How to reach me **developer.idblfs@gmail.com**
+- 📫 How to reach me **mr.divyanshu96@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing](https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing)
 
