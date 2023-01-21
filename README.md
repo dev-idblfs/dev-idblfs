@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/coold-199ef.appspot.com/o/prfileview.svg?alt=media&token=acaa648f-06a8-4e36-9ce6-adb63fdff8a6" alt="dev-idblfs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-idblfs" alt="dev-idblfs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://firebasestorage.googleapis.com/v0/b/coold-199ef.appspot.com/o/awards.svg?alt=media&token=2905db3b-a9d0-479e-b30b-8cc710d43161" alt="dev-idblfs" /></a> </p>
 
 
 
