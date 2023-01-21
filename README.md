@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-idblfs&label=Profile%20views&color=0e75b6&style=flat" alt="dev-idblfs" /> </p>
+<p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/coold-199ef.appspot.com/o/prfileview.svg?alt=media&token=acaa648f-06a8-4e36-9ce6-adb63fdff8a6" alt="dev-idblfs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-idblfs" alt="dev-idblfs" /></a> </p>
 
