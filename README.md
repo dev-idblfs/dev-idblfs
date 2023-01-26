@@ -7,9 +7,18 @@
 
 
 
-- 💬 Ask me about **node, react, REST API, Project Architechture, skelton**
+- 🔭 I’m currently working on **Node.js**
 
-- 📫 How to reach me **mr.divyanshu96@gmail.com**
+- 🌱 I’m currently learning **ML**
+
+- 👯 I’m looking to collaborate on **Machine Learning**
+
+- 🤝 I’m looking for help with **Machine Learning**
+
+- 💬 Ask me about **React, Node.js, DS, Backend Architechture, Optimization**
+
+- 📫 How to reach me **divyanshu@coold.in**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing](https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing)
 
