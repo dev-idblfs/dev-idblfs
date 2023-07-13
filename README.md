@@ -20,7 +20,7 @@
 - 📫 How to reach me **divyanshu@coold.in**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing](https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10sAPmilo2WwVnmVcYMdNXizRBWTupj3E/view?usp=sharing](https://drive.google.com/file/d/10sAPmilo2WwVnmVcYMdNXizRBWTupj3E/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
