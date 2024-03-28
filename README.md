@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyanshu (dev-idblfs)</h1>
 <h3 align="center">I’m a senior oftware engineer from India with five years of experience</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-idblfs&label=Profile%20views&color=0e75b6&style=flat" alt="dev-idblfs" /> </p>
 
