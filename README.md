@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu (dev-idblfs)</h1>
-<h3 align="center">I’m a senior oftware engineer from India with five years of experience</h3>
+<h3 align="center">I’m a senior software engineer from India with five years of experience</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
